@@ -19,7 +19,7 @@ alertas[0]=function(valores){
 	valores[getIndiceValor("Iberdrola")]={valor:"Iberdrola",diferencial:getDif(),signo:getSigno(),indice:"IBEX 35"};
 }
 alertas[1]=function(valores){
-	valores[getIndiceValor("Santender")]={valor:"Santander",diferencial:getDif(),signo:getSigno(),indice:"IBEX 35"};
+	valores[getIndiceValor("Santander")]={valor:"Santander",diferencial:getDif(),signo:getSigno(),indice:"IBEX 35"};
 	valores[getIndiceValor("Sabadell")]={valor:"Sabadell",diferencial:getDif(),signo:getSigno(),indice:"IBEX 35"};
 }
 
